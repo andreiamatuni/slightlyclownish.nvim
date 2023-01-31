@@ -1,4 +1,4 @@
-# Slightly Clownish
+# slightly clownish
 
 Based on the ````no-clown-fiesta```` color scheme, with just a little bit more clowny-ness
 
