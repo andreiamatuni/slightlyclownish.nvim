@@ -2,7 +2,6 @@
 
 Based on the ````no-clown-fiesta```` color scheme, with just a little bit more clowny-ness
 
-An attempt at a color scheme that does not look like a clown puked up the source code.
 
 ![image](misc/screenshot.png)
 
